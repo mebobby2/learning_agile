@@ -11,5 +11,5 @@ Agile is also a mindset, because the right mindset can make a big difference in 
 
 
 ## Upto
-Page 49
-How a Fractured Perspective Causes Project Problems
+Page 86
+Principle #4: The Most Efficient and Effective...
