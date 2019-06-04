@@ -61,3 +61,66 @@ Team members also feel more committed when they participate in assigning the wor
 This means that on effective Scrum teams, the team members don’t just commit to their individual tasks. Every single person feels a genuine commitment to delivering the most valuable software they can to their users and stakeholders. When everyone on the team shares this feeling, and agrees to deliver working software at the end of each sprint, we say that the team has made a **collective commitment**. Instead of committing to individual, micro-level tasks in a plan, the team is committed to delivering valuable items in the backlog.
 
 ## Scrum Has Its Own Set of Values
+Self-organizing teams work differently than command-and-control teams because they have different values. Understanding self-organization starts with learning how the 5 scrum values are practical things that can be incorporated into your projects:
+* Each person is **committed** to the project’s goals. That level of commitment can be achieved when the team has the authority to make decisions in order to meet those goals, and everyone has a say in how the project is planned and executed.
+* Team members **respect** each other. When team members have mutual respect, they’re able to trust each other to do a good job with the work they’ve taken on. A good Scrum Master finds ways to increase the team members’ mutual respect for each other. For example, he may show the programmers that the Product Owner has a deep understanding of how the users think and what the company needs. As programmers start to understand how that knowledge is useful for the project to be successful, they start to value and respect the Product Owner’s opinions.
+* Everyone is **focused** on the work. When a Scrum team member is working on a sprint, that’s his only job for the duration of the sprint.
+* The teams value **openness**. When you’re working on a Scrum team, everyone else on the team should always be aware of what you’re working on and how it moves the project toward its current goals. Task boards, for example, allow everyone to see all of the work being done by each team member, and how much work is left to do. Burndown charts let each person gauge for him- or her‐ self how quickly the sprint is meeting its sprint goals. The Daily Scrum, when done effectively, is an almost pure exercise in openness, because each person shares his or her tasks, challenges, and progress for the whole team to see.
+Many companies have a culture that discourages transparency, and replaces it with a rigid hierarchy that depends on opaqueness. Managers that establish a cul‐ ture like this benefit from it in several ways. It’s much easier in an opaque organi‐ zation to tell a team to meet an unrealistic goal (“I don’t care how you do it, just get it done!”), forcing the team to work overtime to meet it. And it gives the manager plausible deniability to CYA when the team inevitably fails to meet that goal (“It’s not my fault they screwed up!”).
+* Team members have the **courage** to stand up for the project. When you choose openness over opaqueness, you make the team stronger, rather than making yourself stronger at the expense of the team. It takes courage to say to yourself, 'Helping this team produce valuable software is more important to me than bragging rights from my own personal contribution.'
+
+## The Whole Team Uses the Daily Scrum
+The Daily Scrume does two very important things for the team. It functions as an inspection of the work that the team is doing, so they can adapt that work to deliver the most value. And it gives the team the opportunity to make decisions at the last responsible moment, giving them the flexibility to have the right person do the right work at the right time.
+
+### Feedback and the Visibility-Inspection-Adaptation Cycle
+The best way we have for users to judge whether or not the team is building valuable software is to put working software in their hands as frequently as possible. That’s called **visibility** (or transparency), and it applies to communication as well.
+
+When the team members describe their work to each other in the same way every day, a lot of the problems that are caused by inevitable miscommunication get caught before they become costly (and caustic!). When everyone on the team **inspects** what everyone else is doing, they come to conclusions together and maintain a common understanding of the project’s goals and how they’re meeting them.
+
+During the Daily Scrum, when one person describes what he’s working on, one of his teammates might have a suggestion for a way he can improve. If her suggestion is a good one, the work he does the next day will be better. She might also discover that he’s working on the wrong task entirely, a problem that’s most likely caused by mis‐ communication, which would also cause him to change his plans for the next day’s work. These changes are called adaptation. The daily cycle of visibility, inspection, and a **daptation** allows teams to continuously use feedback from their projects to improve how they build software. This is one of the most important features of Scrum. Scrum teams make decisions based on experience and on actual, known facts from their projects.
+
+This cycle is an important **feedback loop** that the team can use to keep the project on track, and to make sure that everyone is communicating and on the same page.
+
+### The Last Responsible Moment
+Team members themselves are the source of the task assignments. Each person self-assigns her next task as soon as she’s done with the current one.
+
+When a team that’s used to command-and-control management arrives for the Daily Scrum, they typi‐ cally look to the project manager or Scrum Master for guidance. That’s when he asks each of them for their status updates, and gives them their next assignments. This feels natural to a team used to having their assignments handed to them. An agile coach looking to help this team run more effective Daily Scrums might advise the Scrum Master, just this once, to stay silent. This will often lead to a minute or two of painful, awkward silence. Finally, someone will speak up and describe the work they did since the last meeting. If the team is lucky, the next thing that team member does is ask, 'So what’s my next task?'
+
+This is the moment when the Scrum Master really distinguishes himself from a project manager. A project manager would proceed to hand the team member a pre- parceled task. The Scrum Master recognizes this as the chance for the team to have a collective 'a ha!' moment, when they finally figure out exactly where task assignments come from.
+
+Also, instead of decomposing the work into tasks at the beginning of the sprint, sequencing the tasks, assigning each of them to team members before any work is started, and tracking to that plan, agile teams follow a simple rule for scheduling. They make all decisions at the **last responsible moment**.
+
+### How to Hold an Effective Daily Scrum
+1. Act like a 'pig'. Every team member is accountable to his or her teammates, and should explain what happened if a commitment that he or she made in the previous meeting wasn't met. The first thing that you get from the Daily Scrum: your next task. When it’s your turn to answer the question about what you’ll be doing between now and the next Daily Scrum, if you’ve finished all the work assigned to you so far, your job is to look at the tasks in the “to do” column and choose the one that makes the most sense for you and for the project. If it’s not the right choice, someone else who’s also acting like a genuinely committed 'pig' will speak up.
+2. Take detailed conversations offline. The goal of the Daily Scrum is to identify problems, not solve them. If a problem hasn’t been resolved after a minute or two of discussion, schedule a follow-up meeting with anyone who feels they need to be involved.
+3. Take turns going first. There’s no single person who’s the “keeper” of the schedule, and there's no single person who’s more important to the project than anyone else.
+3. Don’t treat it like a ritual. It’s easy to treat the three questions that each person answers— What have I done since the last Daily Scrum? What will I do until the next one? What’s blocking my progress?—as a ritual that just needs to be adhered to for some reason everyone’s forgotten. Rituals tend to fade over time, because people see them as perfunctory. These questions are the core of the Daily Scrum because those are exactly the things that the team needs to inspect every day in order to find the project problems early.
+4. Everyone participates. This includes testers, business analysts, and anyone else on the team—and the Product Owner, too. The Product Owner has an especially important job to do because he or she keeps everyone up to date on what tasks in the backlog are most valuable to the users and the company.
+5. Don’t treat it like a status meeting. A status meeting is really just a one-way communication, a bunch of individual two-person conversations between a single team member and a project manager. You can avoid this by making sure that each person in the Daily Scrum is really listening.
+6. Inspect every task. When you’re looking for roadblocks, don’t just look at what you’re currently doing. Look several moves ahead by examining every item in the “to do” column to figure out if any of those items could have an impact.
+7. Change the plan if it needs to be changed. This is the 'adapting' part of the visibility-inspection-adaptation cycle, and it’s what puts the teeth in self-organization.
+
+## Sprints, Planning, and Retrospectives
+Sprint planning requires you—and your whole team—to think about what your users need, and what they value, in a way that you never have before. When people talk about Scrum being hard, this is generally what they’re referring to.
+
+Luckily, effective Scrum teams have a not-so-secret weapon to attack this problem: the Product Owner. When the Product Owner really takes the time to understand what the stakeholders need and what will give them value, he can help the team aim each sprint at the problems that the company needs solved first.
+
+And when the team is holding effective retrospectives at the end of each sprint, the Product Owner can help take the lessons the team learned back to the company so that everyone’s expectations can stay in line with what the team can actually deliver.
+
+
+### Iterative or Incremental?
+An iterative process is one that makes progress through successive refinement. A development team takes a first cut at a system, knowing it is incomplete or weak in some (perhaps many) areas. They then iteratively refine those areas until the product is satisfactory. With each iteration the software is improved through the addition of greater detail.
+
+An incremental process is one in which software is built and delivered in pieces. Each piece, or increment, represents a complete subset of functionality. The increment may be either small or large, perhaps ranging from just a system’s login screen on the small end to a highly flexible set of data management screens. Each increment is fully coded and tested, and the common expectation is that the work of an iteration will not need to be revisited.
+
+Scrum sprints are about more than just delivering working software on a timeboxed schedule. Scrum is also about understanding the value that the software delivers, looking at exactly how that value will be delivered, and changing course if there’s a way to deliver more value. When methodologies and processes like Scrum work like that, it’s called iterative development. That’s why Scrum is both an incremental and iterative methodology.
+
+A Scrum team that’s doing incremental development takes the same visibility-inspection-adaptation cycle that they already use for their Daily Scrums and applies it to the project as a whole. That’s the goal of sprint planning, managing the sprint backlog, and holding retrospectives.
+
+It’s the Product Owner’s job to:
+* Understand what the company needs most, and bring that knowledge back to the team
+* Understand what software features the team can potentially deliver
+* Figure out which features are more valuable to the company, and which are less valuable
+* Work with the team to figure out which features are easier to build, and which are harder
+* Use that knowledge of value, difficulty, uncertainty, complexity, etc. to help the team choose the right features to build in each sprint
+* Bring that knowledge back to the rest of the company, so they can do what they need to do to prepare for the next release of the software
