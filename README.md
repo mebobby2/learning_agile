@@ -11,5 +11,5 @@ Agile is also a mindset, because the right mindset can make a big difference in 
 
 
 ## Upto
-Page 142
-The Product Owner Makes or Breaks the Sprint
+Page 157
+CHAPTER 5

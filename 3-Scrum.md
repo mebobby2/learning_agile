@@ -107,7 +107,6 @@ Luckily, effective Scrum teams have a not-so-secret weapon to attack this proble
 
 And when the team is holding effective retrospectives at the end of each sprint, the Product Owner can help take the lessons the team learned back to the company so that everyone’s expectations can stay in line with what the team can actually deliver.
 
-
 ### Iterative or Incremental?
 An iterative process is one that makes progress through successive refinement. A development team takes a first cut at a system, knowing it is incomplete or weak in some (perhaps many) areas. They then iteratively refine those areas until the product is satisfactory. With each iteration the software is improved through the addition of greater detail.
 
@@ -124,3 +123,28 @@ It’s the Product Owner’s job to:
 * Work with the team to figure out which features are easier to build, and which are harder
 * Use that knowledge of value, difficulty, uncertainty, complexity, etc. to help the team choose the right features to build in each sprint
 * Bring that knowledge back to the rest of the company, so they can do what they need to do to prepare for the next release of the software
+
+### The Product Owner Makes or Breaks the Sprint
+He or she owns the product backlog, and selects the highest priority items to ask the team to work on during the sprint. He works with the team during sprint planning to decide which of those items go into the sprint backlog (which is owned collectively by the team), and accepts those items that have been finished by the team on behalf of the company.
+
+This means that the Product Owner has to have a lot of authority—and a Product Owner who doesn’t really have the authority to make those decisions (or who does, but is afraid to make them) is the wrong person for the job. It also means that the Product Owner has to have a really good sense of what’s valuable to the company. He or she can talk to other people to figure out what items are more or less valuable, but in the end it’s up to the Product Owner to make the final decision about the priority of everything in the product backlog.
+
+#### Definition of 'Done'
+PO and the team need to agree on what it means for each item to be “Done”—not just done, but “Done.” A backlog item is “Done” if it can be accepted by the Product Owner and delivered to the rest of the company. If each item doesn’t have a clear, unambiguous definition of what it means to be “Done,” there will be a lot of confusion and, almost certainly, heated arguments at the end of the sprint.
+
+Any items that are not “Done” go back onto the product backlog—even if the team did a lot (or even most) of the work for them. The team don’t get credit for having finished the item until it’s actually “Done” and accepted by the Product Owner.
+
+### Visibility and Value
+When a team has a culture where the more experienced developer does the 'grunt work' in a few minutes when it’s fresh rather than making a more junior team member spend hours on it later, that can be another source of the Scrum 'hyper-productivity' and 'astonishing results' that seem to elude many teams. On a Scrum team, everyone has a genuine feeling of ownership for every aspect of the project. If the senior team member feels that way, it would never even occur to him to “dump” these tasks—and, in fact, it wouldn’t feel like dumping at all. He would be the logical person to do the work, so doing that work would feel like the most important thing for him to be doing right now.
+
+So how do you get that feeling of shared ownership embedded in the team, so that every single person—from the most junior developer to the senior technical lead to the Scrum Master and Product Owner—will voluntarily take on uninteresting or irritating tasks because he or she cares about the project?
+
+When teams are motivated effectively, it’s because they’re organized around an **elevating goal**. Elevating goals are aimed at value: software is valuable if it makes your users’ lives better.
+
+All members of an agile team, even ones who don’t necessarily write code—are highly motivated by pride of workmanship. We want to build software that's useful, and that people like and care about.
+
+### How to Plan and Run an Effective Scrum Sprint
+1. Starting with the backlog — which means starting with the users. It's the PO's job to understand the users, and keep everyone on the team up to date on what they need most from the software.
+2. Be realistic about what you can deliver. A good Scrum Master helps the team estimate the work and figure out what they can and can’t include.
+3. Change the plan if it needs to change. Take advantage of the Daily Scrum meetings to figure out if the team is really going to finish everything they’ve promised for the sprint. If the plan needs to be changed, it’s the responsibility of the team to change it. If it becomes clear that the team won’t be able to finish all of the work in the sprint backlog, then the team should move some of it (starting with the lowest value items) out of the sprint backlog and back into the product backlog—and the Scrum Master should make sure that everyone on the team understands the change.
+4. Get everyone talking about value. Effective Scrum teams tend to be full of people who understand what their users actually need, and what’s valuable to them. How does it make their lives easier? What does it let them do that they couldn’t do before? How much time and effort will it save them? These things really matter to agile developers. The more that you talk about them and make sure that they matter, the better the software will be.
