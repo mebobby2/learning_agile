@@ -11,5 +11,5 @@ Agile is also a mindset, because the right mindset can make a big difference in 
 
 
 ## Upto
-Page 196
-Act I: Going into Overtime
+Page 221
+Understanding the XP Principles Helps You Embrace Change
