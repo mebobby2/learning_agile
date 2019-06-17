@@ -11,6 +11,6 @@ Agile is also a mindset, because the right mindset can make a big difference in 
 
 
 ## Upto
-Page 257
+Page 300
 
-Make Code and Design Decisions at the Last Responsible Moment
+Creating Heroes and Magical Thinking
