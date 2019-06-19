@@ -127,4 +127,6 @@ A **pull system** is a way of running a project or a process that uses queues or
 
 Example: The first step in creating a pull system is to break the work down into small, pullable chunks. So instead of building a large spec, the team can break it into minimal marketable features—say, individual stories, and maybe a small amount of documen‐ tation to go with each story. Those stories would then be approved individually. Typically, when a spec review process is held up for a long time, it’s because people have problems with some of the features. (Can you see how breaking the work down into smaller MMFs gives the team more options? That’s options thinking.) Approving individual MMFs should allow at least a few features to get approved quickly. As soon as the first MMF has been approved, the team can start working on it.
 
+Kanban is an example of a pull system. Developers 'pull' in stories to be worked on based on actual demand, which still consists of the needs/desires of the business, but is now based on the actual capacity of team (i.e. when a developer finishes a story, he/she will pull in the next story accordingly).
+
 This is how all the parts of lean thinking—seeing the whole, identifying the waste, and setting up a pull system of eliminate the unevenness and overburdening—can come together to help a team improve the way they do work.
