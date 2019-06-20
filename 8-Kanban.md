@@ -71,13 +71,13 @@ If you’re a developer it's easy to become fixated on getting that feature buil
 
 For this, Kanban goes back to lean thinking—specifically, the principle of options thinking. One reason that a Kanban team uses a kanban board is because it shows all of your options. If you’re that developer who just finished the design for a feature, it’s easy to think that you now have a commitment to work on the code next. But working on the code for that particular feature is an option, not a commitment. When you look at the whole kanban board, you’ll see many stickies that you can work on next. Maybe there are other stickies in earlier col‐ umns for other features that need to be designed, or ones in later columns for features with bugs that the testers found that need to be fixed. In fact, most of the time you have many options that you can choose from.
 
-Setting a WIP limit for a step in your workflow means limiting the number of fea‐ tures that are allowed to move into that step. This helps limit the team’s options to make that decision easier in a way that will prevent overburdening and keep the fea‐ tures flowing through the workflow as efficiently as possible.
+Setting a WIP limit for a step in your workflow means limiting the number of features that are allowed to move into that step. This helps limit the team’s options to make that decision easier in a way that will prevent overburdening and keep the fea‐ tures flowing through the workflow as efficiently as possible.
 
 There is no hard-and-fast rule that says how large the WIP limit should be; instead, teams will take an evolutionary approach to setting WIP limits. Kanban teams typically choose a WIP limit that makes sense and that everyone can agree on, and then use measurements to adjust it experimentally
 
 Like any tool, WIP limits and feedback loops can be abused. When a system has a feedback loop that’s too short, it ends up in a state that’s called **thrashing**. This is what happens when too much information is fed back into the system, and there isn’t enough time to respond before the next batch of information is fed back.
 
-Visualizing the workflow with a kanban board helps the team see the feedback loops, and experiment with WIP limits to find an optimal feedback loop length that pro‐ vides frequent feedback that the team can respond to, but which allows them enough time to respond to that feedback before the next batch comes in.
+Visualizing the workflow with a kanban board helps the team see the feedback loops, and experiment with WIP limits to find an optimal feedback loop length that provides frequent feedback that the team can respond to, but which allows them enough time to respond to that feedback before the next batch comes in.
 
 ## Measure and Manage Flow
 As teams continue to deliver work, they identify workflow problems and adjust their WIP limits so that the feedback loops provide enough information without causing thrashing. The flow of the system is the rate at which work items move through it. When the team finds an optimal pace for delivery combined with a comfortable amount of feedback, they’ve *maximized the flow*. A Kanban team uses the **manage flow** practice by measuring the flow and taking active steps to improve it for the team.
@@ -90,3 +90,22 @@ But how do you know that you’re actually increasing flow when you add WIP limi
 The kanban board can show you where the unevenness, loops, and other workflow problems are today, and helps you manage your flow on a day-to-day basis by adding WIP limits. The CFD lets you look *at the way your entire process is performing over time*, so you can take steps to find and fix the root cause of any long-term problems.
 
 Most teams that use CFDs don’t draw them incrementally on a wall; they use Excel or another spreadsheet program that supports charting. One reason—aside from ease of managing data—is that the spreadsheet can automatically add a linear trendline to the arrival rate and inventory line charts. These trendlines are very useful, because they can tell you whether or not your system is stable. If they’re flat and horizontal, the system is stable. If one of them is tilted, then that value is changing over time. You’ll need to add WIP limits to stabilize your system, and you’ll be able to tell that the system is stable once those lines flatten out.
+
+One of the core ideas of Kanban is that once you visualize the workflow, you can measure the flow, make your system stable, and actually take control of your project’s lead time by managing the rate that you start work on new work items.
+
+### Make Process Policies Explicit so Everyone is the Same Page
+Kanban teams often make process policies explicit by adding definitions of done or exit criteria to the bottom of each column on the kanban board.
+
+### Managing Flow with WIP Limits Naturally Creates Slack
+Developers need slack, or “wiggle room,” in the schedule. They need it to make sure that they have time to do a good job. We saw in the XP chapters that when a devel‐ oper feels like he doesn’t have enough time to think about the work, he cuts corners and adds technical debt.
+
+This kind of “always behind, always rushed” atmosphere leaves little or no room for creativity, and stifles innovation at every turn.  It also kills quality practices, because teams that feel like they’re running behind will often cut out any activity that doesn’t directly produce code. This is why XP teams include Slack in their primary practices.
+
+Teams using Kanban also value slack, and understand the impact that slack has on each team member’s ability to do their best work. This is one of the main reasons that they limit work in progress. And when teams use Kanban to improve the process, instead of following a strict timebox they will adopt a **delivery cadence**. To do this, they commit to delivering software on a regular schedule (for example, a team might commit to releasing software every six weeks)—but they don’t commit to a specific set of work items that will be included with the release. Instead, they trust their sys‐ tem to deliver work items. If they’ve removed overburdening and unevenness, then they will naturally get a set of completed work items to include in each delivery.
+
+## Emergent Behavior with Kanban
+Kanban looks at the entire system in aggregate. Instead of trying to micromanage every little activity, a team using Kanban uses systems thinking to understand, measure, and incrementally improve the system as a whole. They accept the fact that individual work items will vary, but the system as a whole acts predictably when unevenness, overburdening and futility are reduced.
+
+This is how *new behavior emerges outside of the team*. Instead of just blaming the team for overburdening that isn’t necessarily their own fault, everyone becomes very concerned with stickies queued up in that first column, because those are the ones that will be worked on by the team. They may have prioritization meetings, or do “horse trading” among themselves, or find some other way to decide on what tasks go into the queue. But there’s one thing that does not happen anymore: the team no longer has to take the blame, because they’re no longer expected to do more work than they are physically capable of.
+
+When Kanban teams gradually improve the system by adding WIP limits, managing flow, and making process policies explicit, improved behavior often emerges in the rest of the company not because they were asked to change, but because they were working within a system that naturally encouraged them to behave differently.
