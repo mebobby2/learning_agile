@@ -11,6 +11,6 @@ Agile is also a mindset, because the right mindset can make a big difference in 
 
 
 ## Upto
-Page 335
+Page 363
 
-CHAPTER 9
+If you look at the hand-written notes in Figure 9-10, you’ll see that we
