@@ -11,6 +11,6 @@ Agile is also a mindset, because the right mindset can make a big difference in 
 
 
 ## Upto
-Page 389
+Page 391
 
-CHAPTER 10
+Coaches Understand Why People Don’t Always Want to Change
