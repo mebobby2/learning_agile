@@ -70,7 +70,9 @@ Many companies have a culture that discourages transparency, and replaces it wit
 * Team members have the **courage** to stand up for the project. When you choose openness over opaqueness, you make the team stronger, rather than making yourself stronger at the expense of the team. It takes courage to say to yourself, 'Helping this team produce valuable software is more important to me than bragging rights from my own personal contribution.'
 
 ## The Whole Team Uses the Daily Scrum
-The Daily Scrume does two very important things for the team. It functions as an inspection of the work that the team is doing, so they can adapt that work to deliver the most value. And it gives the team the opportunity to make decisions at the last responsible moment, giving them the flexibility to have the right person do the right work at the right time.
+The Daily Scrum does two very important things for the team. It functions as an inspection of the work that the team is doing, so they can adapt that work to deliver the most value. And it gives the team the opportunity to make decisions at the last responsible moment, giving them the flexibility to have the right person do the right work at the right time.
+
+The daily scrum is *not* a status update meeting. It can function as a meeting to remove any blockers, but in essense, think of the daily scrum as a mini sprint planning. The team comes together to re-plan the sprint (if needed) to ensure the team is still on track to complete the sprint.
 
 ### Feedback and the Visibility-Inspection-Adaptation Cycle
 The best way we have for users to judge whether or not the team is building valuable software is to put working software in their hands as frequently as possible. That’s called **visibility** (or transparency), and it applies to communication as well.
